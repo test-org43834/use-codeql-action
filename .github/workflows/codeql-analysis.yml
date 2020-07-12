@@ -1,5 +1,6 @@
 name: "Code scanning - action"
 
+
 on:
   push:
     branches: [master, ]
